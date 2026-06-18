@@ -7,10 +7,12 @@ leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,4 +25,12 @@ leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
