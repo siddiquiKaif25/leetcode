@@ -6,6 +6,7 @@ leetcode problems
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/siddiquiKaif25/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddiquiKaif25/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddiquiKaif25/leetcode/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@ leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/siddiquiKaif25/leetcode/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
