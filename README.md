@@ -17,6 +17,7 @@ leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/siddiquiKaif25/leetcode/tree/master/0202-happy-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -37,6 +38,7 @@ leetcode problems
 | ------- |
 | [0050-powx-n](https://github.com/siddiquiKaif25/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/siddiquiKaif25/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/siddiquiKaif25/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/siddiquiKaif25/leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/siddiquiKaif25/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/siddiquiKaif25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -51,6 +53,7 @@ leetcode problems
 | ------- |
 | [0027-remove-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/siddiquiKaif25/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/siddiquiKaif25/leetcode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,4 +88,8 @@ leetcode problems
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/siddiquiKaif25/leetcode/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/siddiquiKaif25/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
