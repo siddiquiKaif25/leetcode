@@ -12,6 +12,7 @@ leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddiquiKaif25/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddiquiKaif25/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/siddiquiKaif25/leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddiquiKaif25/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -20,6 +21,7 @@ leetcode problems
 | [0001-two-sum](https://github.com/siddiquiKaif25/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/siddiquiKaif25/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/siddiquiKaif25/leetcode/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -30,6 +32,7 @@ leetcode problems
 | ------- |
 | [0088-merge-sorted-array](https://github.com/siddiquiKaif25/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/siddiquiKaif25/leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddiquiKaif25/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
