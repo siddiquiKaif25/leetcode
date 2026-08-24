@@ -11,6 +11,7 @@ leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddiquiKaif25/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddiquiKaif25/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddiquiKaif25/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ leetcode problems
 | ------- |
 | [0088-merge-sorted-array](https://github.com/siddiquiKaif25/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddiquiKaif25/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -38,6 +40,7 @@ leetcode problems
 | [0258-add-digits](https://github.com/siddiquiKaif25/leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/siddiquiKaif25/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/siddiquiKaif25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddiquiKaif25/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
