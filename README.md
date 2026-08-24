@@ -35,6 +35,7 @@ leetcode problems
 | ------- |
 | [0050-powx-n](https://github.com/siddiquiKaif25/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/siddiquiKaif25/leetcode/tree/master/0070-climbing-stairs) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/siddiquiKaif25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -49,6 +50,7 @@ leetcode problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/siddiquiKaif25/leetcode/tree/master/0136-single-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/siddiquiKaif25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +64,8 @@ leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddiquiKaif25/leetcode/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/siddiquiKaif25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
