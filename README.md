@@ -97,4 +97,8 @@ leetcode problems
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/siddiquiKaif25/leetcode/tree/master/0202-happy-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/siddiquiKaif25/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
