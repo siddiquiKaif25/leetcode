@@ -35,6 +35,7 @@ leetcode problems
 | ------- |
 | [0050-powx-n](https://github.com/siddiquiKaif25/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/siddiquiKaif25/leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/siddiquiKaif25/leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/siddiquiKaif25/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/siddiquiKaif25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddiquiKaif25/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -73,4 +74,12 @@ leetcode problems
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/siddiquiKaif25/leetcode/tree/master/0367-valid-perfect-square) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/siddiquiKaif25/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/siddiquiKaif25/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
